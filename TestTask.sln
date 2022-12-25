@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask", "TestTask.csproj", "{F1201A15-A5AC-4E17-95C3-262584DD57DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary", "..\ShapeLibrary\ShapeLibrary.csproj", "{34601FE3-9766-4C34-827A-41460A9A76A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{94B408FC-C3BE-4EAD-ADAD-151058534D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1201A15-A5AC-4E17-95C3-262584DD57DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1201A15-A5AC-4E17-95C3-262584DD57DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1201A15-A5AC-4E17-95C3-262584DD57DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1201A15-A5AC-4E17-95C3-262584DD57DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34601FE3-9766-4C34-827A-41460A9A76A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34601FE3-9766-4C34-827A-41460A9A76A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34601FE3-9766-4C34-827A-41460A9A76A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34601FE3-9766-4C34-827A-41460A9A76A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B408FC-C3BE-4EAD-ADAD-151058534D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B408FC-C3BE-4EAD-ADAD-151058534D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B408FC-C3BE-4EAD-ADAD-151058534D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B408FC-C3BE-4EAD-ADAD-151058534D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F90189A-EC6C-47E6-820D-E99BA16C6DAC}
+	EndGlobalSection
+EndGlobal
